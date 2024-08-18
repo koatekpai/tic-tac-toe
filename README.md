@@ -36,4 +36,3 @@ The primary goal of tic-tac-toe is to be the first player to form a straight lin
 - -> play
 - -> checkScore
 - -> end
- 
